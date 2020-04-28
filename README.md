@@ -6,6 +6,10 @@
 ## 2. related DNAses (Yongjing)
 
 ## 3. RNA (Youhuang)
+### Resources
+- [SARS-CoV-2 Sequencing Resources](https://github.com/CDCgov/SARS-CoV-2_Sequencing) a crowd-sourced collection of information, documentation, protocols and other resources for public health laboratories intending to sequence SARS-CoV-2 coronavirus samples.
+- [SARS-COV-2 (COVID-19) BIOINFORMATICS RESOURCES](https://genexa.ch/sars2-bioinformatics-resources/) genexa provides resources useful for SARS-CoV-2 (COVID-19) genome index, unique kmers, and  complete genome assemblies.
+- [Bioinformatics resources for SARS-CoV-2](http://www.clinbioinfosspa.es/CovidResources) lists bioinformatics resources useful track the evolution and progression of the SARS-CoV-2 virus as well as to manage genomics data of the virus
 ### tools & databases
 - [COVID-19 Data Portal](https://www.covid19dataportal.org/) EMBL-EBI will bring together COVID-19 datasets that have been submitted to its public databases, including ENA, UniProt, PDBe, EMDB, Expression Atlas and Europe PMC. The data, which have so far been collated, include genes, protein structures, electron microscopy data and scientific publications.
 - [UK's SARS-CoV-2 genome sequencing consortium](https://www.cogconsortium.uk/data/)
