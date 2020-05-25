@@ -2,6 +2,11 @@
 
 
 ## 1. genome/genomics (Guangyuan)
+### Data resources
+- [EMBL-EBI: Covid-19 Data Portal](https://www.covid19dataportal.org/) The Covid-19 Data Portal developed and hosted by EMBL-EBI brings together relevant datasets for sharing and analysis in an effort to accelerate coronavirus research. It enables researchers to upload, access and analyse COVID-19 related reference data and specialist datasets as part of the wider European COVID-19 Data Platform. It includes some tools as well.
+- [ViPR SARS-CoV-2 data portal | Virus Pathogen Resource](https://www.viprbrc.org/) The ViPR database integrates various types of data for multiple virus families. You can search the comprehensive database for sequences & strains, immune epitopes, 3D protein structures, host factor data, antiviral drugs, plasmid data. Further you can analyze the data online using sequence alignment, phylogenetic tree reconstruction, sequence variation (SNP), metadata-driven comparative analysis and BLAST. Visit the [SARS-CoV-2 data portal in ViPR](https://www.viprbrc.org/brc/home.spg?decorator=corona_ncov).
+> [B. E. Pickett, E. L. Sadat, Y. Zhang, J. M. Noronha, B. R. Squires, V. Hunt, M. Liu, S. Kumar, S. Zaremba, Z. Gu, L. Zhou, C. N. Larson, J. Dietrich, E. B. Klem, and R. H. Scheuermann, “ViPR: an open bioinformatics database and analysis resource for virology research,” Nucleic Acids Res, vol. 40, iss. D1, p. D593–D598, 2011.](http://dx.doi.org/10.1093/nar/gkr859)
+
 
 ## 2. related DNAses (Yongjing)
 
